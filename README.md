@@ -1,6 +1,6 @@
 # jasontom
 
-$ cat building_global_community.txt | 105034551_謝其旻_HW1.py
+$ cat building_global_community.txt | 105034551_謝其旻_HW2.py
 
 first, open count.csv
 then use counter to count the number of every kinds of words
